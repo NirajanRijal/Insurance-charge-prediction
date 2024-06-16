@@ -16,5 +16,15 @@ Actually, not only for this project, if we need to know the sequence for data Pr
 
 ___________________________________________________________________________________________________________________________________________________________________________
 
+What is Linear Regression?
+- Imagine we have a bunch of points scattered on a piece of paper, and we want to draw a straight line that goes through as many points as possible or at least gets as close to as many points as possible. This straight line is called the "line of best fit."
 
+The Line of Best Fit:
+- This line is special because it shows the general trend of our points. If we are looking at points representing how much(time) we've studied for a test (x-axis) and the scores we got (y-axis), the line of best fit would show the overall relationship between studying time and scores.
+
+The Equation of a Line: y = mx + b
+- y: This is the value we are trying to predict (like our test score).
+- x: This is the value we are using to make predictions (like how many hours we studied).
+- m: This is the slope of the line. It tells us how much y changes for a change in x. If m is 2, it means for every extra hour we study, our score goes up by 2 points.
+- b: This is the y-intercept. It tells us where the line crosses the y-axis. It's the value of y when x is 0. If b is 10, it means if we didn't study at all (x=0), we might still get a score of 10.
 
